@@ -36,8 +36,9 @@ async function initSite() {
 async function loadSiteConfig() {
     const config = await loadJSON('site-config');
     if (config) {
-        document.getElementById('site-title').textContent = config.title || 'Portfolio';
-        document.getElementById('site-description').content = config.description || 'Editorial Portfolio';
+        const meta = config.meta || config;
+        document.getElementById('site-title').textContent = meta.title || 'Portfolio';
+        document.getElementById('site-description').content = meta.description || 'Editorial Portfolio';
     }
 }
 
@@ -49,32 +50,39 @@ async function loadSidebar() {
     const footer = await loadJSON('footer');
 
     if (sidebar) {
+        const brand = sidebar.brand || {};
+
         const logo = document.getElementById('logo');
-        if (logo) logo.textContent = sidebar.logo || 'Portfolio';
+        if (logo) logo.textContent = brand.name || sidebar.logo || 'Portfolio';
 
         const tagline = document.getElementById('tagline');
-        if (tagline) tagline.textContent = sidebar.tagline || '';
+        if (tagline) tagline.textContent = brand.title || sidebar.tagline || '';
 
+        // Only link to sections that actually exist on the page
         const nav = document.getElementById('sidebar-nav');
         if (nav && sidebar.navigation) {
             nav.innerHTML = `
                 <ul>
-                    ${sidebar.navigation.map(item => `
-                        <li><a href="${item.href}">${item.text}</a></li>
+                    ${sidebar.navigation
+                        .filter(item => document.querySelector(item.href))
+                        .map(item => `
+                        <li><a href="${item.href}">${item.label || item.text}</a></li>
                     `).join('')}
                 </ul>
             `;
         }
 
         const social = document.getElementById('sidebar-social');
-        if (social && sidebar.social) {
-            social.innerHTML = sidebar.social.map(link => `
-                <a href="${link.url}" class="social-link" target="_blank">${link.name}</a>
-            `).join('');
+        const socialLinks = sidebar.socialLinks || sidebar.social;
+        if (social && socialLinks) {
+            social.innerHTML = socialLinks.map(link => {
+                const external = /^https?:/.test(link.url);
+                return `<a href="${link.url}" class="social-link"${external ? ' target="_blank" rel="noopener"' : ''}>${link.platform || link.name}</a>`;
+            }).join('');
         }
 
         const copyright = document.getElementById('sidebar-copyright');
-        if (copyright) copyright.textContent = sidebar.copyright || '';
+        if (copyright) copyright.textContent = (sidebar.footer && sidebar.footer.text) || sidebar.copyright || '';
     } else if (navigation) {
         // Use standardized navigation
         const nav = document.getElementById('sidebar-nav');
@@ -101,18 +109,19 @@ async function loadHero() {
     const hero = await loadJSON('hero');
     if (hero) {
         // Handle both old and new structure
-        const name = hero.name || '';
-        const title = hero.title || '';
-        const label = hero.label || hero.greeting || '';
+        const name = hero.name || hero.headline || '';
+        const title = hero.title || hero.subheadline || '';
+        const label = hero.label || hero.greeting || title || hero.kicker || '';
 
         const labelEl = document.getElementById('hero-label');
         if (labelEl) labelEl.textContent = label;
 
+        // Name as the headline; the role already shows in the label above it
         const titleEl = document.getElementById('hero-title');
-        if (titleEl) titleEl.textContent = name ? `${name} — ${title}` : title;
+        if (titleEl) titleEl.textContent = name || title;
 
         const subtitle = document.getElementById('hero-subtitle');
-        if (subtitle) subtitle.textContent = hero.subtitle || hero.summary || '';
+        if (subtitle) subtitle.textContent = hero.subtitle || hero.summary || hero.deck || '';
 
         // Handle CTA - support both structures
         const cta = document.getElementById('hero-cta');
@@ -120,7 +129,7 @@ async function loadHero() {
             if (hero.cta && hero.cta.buttons && hero.cta.buttons.length > 0) {
                 // New structure with buttons array
                 cta.innerHTML = hero.cta.buttons.map(btn =>
-                    `<a href="${btn.href}" class="btn btn-${btn.type || 'primary'}">${btn.text}</a>`
+                    `<a href="${btn.href}" class="cta-button${btn.type === 'secondary' ? ' cta-button--ghost' : ''}">${btn.text}</a>`
                 ).join('');
             } else if (hero.cta && hero.cta.text) {
                 // Old structure with single button
@@ -195,7 +204,10 @@ async function loadExperience() {
                 <div class="work-item">
                     <div class="work-period">${item.period || ''}</div>
                     <h4 class="work-position">${item.title || ''}</h4>
-                    <div class="work-company">${item.company || ''}</div>
+                    <div class="work-company">
+                        ${item.logo ? `<span class="work-logo"><img src="${item.logo}" alt="${item.company || ''} logo" loading="lazy"></span>` : ''}
+                        <span>${item.company || ''}</span>
+                    </div>
                     <p class="work-description">${item.description || ''}</p>
                 </div>
             `).join('');

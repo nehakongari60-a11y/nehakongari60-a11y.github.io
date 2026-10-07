@@ -18,7 +18,8 @@
         "Built Tableau sustainability dashboards, tracking carbon emissions and waste metrics to support executive reporting requirements",
         "Supported ESG compliance initiatives by implementing waste reduction tracking and aligning supply chain metrics with sustainability goals, enhancing reporting accuracy and corporate compliance readiness",
         "Enhanced inventory accuracy by integrating ERP and BI systems, lowering imbalances and improving stock availability significantly"
-      ]
+      ],
+      "logo": "assets/img/logos/pepsico.svg"
     },
     {
       "title": "Supply Chain Analyst",
@@ -39,7 +40,8 @@
         "Minimized stock-outs by assisting RFID warehouse tracking pilot, enhancing real-time inventory visibility and accuracy",
         "Heightened reporting accuracy by standardizing procurement and logistics templates for weekly management reports consistently",
         "Supported procurement, logistics, and finance with daily reporting, enabling informed decision-making across multiple departments"
-      ]
+      ],
+      "logo": "assets/img/logos/mphasis.svg"
     }
   ]
 }

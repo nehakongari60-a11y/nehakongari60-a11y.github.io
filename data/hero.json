@@ -3,7 +3,7 @@
   "kicker": "Portfolio",
   "headline": "Neha Kongari",
   "subheadline": "Supply Chain Analyst",
-  "deck": "Supply Chain Analyst with 1+ years of experience specializing in Python, R, SQL.",
+  "deck": "Supply Chain Analyst with 4+ years of experience specializing in Python, R, SQL.",
   "avatarUrl": "/avatar.png",
   "byline": {
     "name": "Neha Kongari",
@@ -15,7 +15,7 @@
     "alt": "Neha Kongari - Supply Chain Analyst",
     "caption": ""
   },
-  "pullQuote": "Supply Chain Analyst with 1+ years of experience specializing in Python, R, SQL.",
+  "pullQuote": "Supply Chain Analyst with 4+ years of experience specializing in Python, R, SQL.",
   "cta": {
     "buttons": [
       {
@@ -38,5 +38,6 @@
       "url": "mailto:nehakongari60@gmail.com",
       "icon": "fas fa-envelope"
     }
-  ]
+  ],
+  "image": "assets/img/hero-supply-chain.jpg"
 }

@@ -14,7 +14,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/thesis-option-pricing-with-deep-learning.jpg",
         "alt": "thesis-option-pricing-with-deep-learning",
         "caption": "thesis-option-pricing-with-deep-learning project showcase"
       },
@@ -35,7 +35,8 @@
       },
       "tags": [
         "Python"
-      ]
+      ],
+      "image": "assets/img/projects/thesis-option-pricing-with-deep-learning.jpg"
     },
     {
       "title": "enhanced-anomaly-detection-system",
@@ -48,7 +49,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/enhanced-anomaly-detection-system.jpg",
         "alt": "enhanced-anomaly-detection-system",
         "caption": "enhanced-anomaly-detection-system project showcase"
       },
@@ -69,7 +70,8 @@
       },
       "tags": [
         "Python"
-      ]
+      ],
+      "image": "assets/img/projects/enhanced-anomaly-detection-system.jpg"
     },
     {
       "title": "online-grocery-retail---prediction-and-recommendation",
@@ -83,7 +85,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/online-grocery-retail---prediction-and-recommendation.jpg",
         "alt": "online-grocery-retail---prediction-and-recommendation",
         "caption": "online-grocery-retail---prediction-and-recommendation project showcase"
       },
@@ -105,7 +107,8 @@
       "tags": [
         "Jupyter Notebook",
         "Python"
-      ]
+      ],
+      "image": "assets/img/projects/online-grocery-retail---prediction-and-recommendation.jpg"
     },
     {
       "title": "ds_salary_proj",
@@ -119,7 +122,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/ds_salary_proj.jpg",
         "alt": "ds_salary_proj",
         "caption": "ds_salary_proj project showcase"
       },
@@ -141,7 +144,8 @@
       "tags": [
         "Jupyter Notebook",
         "Python"
-      ]
+      ],
+      "image": "assets/img/projects/ds_salary_proj.jpg"
     },
     {
       "title": "anomaly-detection",
@@ -155,7 +159,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/anomaly-detection.jpg",
         "alt": "anomaly-detection",
         "caption": "anomaly-detection project showcase"
       },
@@ -177,7 +181,8 @@
       "tags": [
         "Jupyter Notebook",
         "Python"
-      ]
+      ],
+      "image": "assets/img/projects/anomaly-detection.jpg"
     },
     {
       "title": "online-payments-fraud-detection-with-machine-learning",
@@ -193,7 +198,7 @@
       ],
       "icon": "fas fa-brain",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/online-payments-fraud-detection-with-machine-learning.jpg",
         "alt": "online-payments-fraud-detection-with-machine-learning",
         "caption": "online-payments-fraud-detection-with-machine-learning project showcase"
       },
@@ -217,7 +222,8 @@
         "HTML",
         "Python",
         "CSS"
-      ]
+      ],
+      "image": "assets/img/projects/online-payments-fraud-detection-with-machine-learning.jpg"
     },
     {
       "title": "customer-churn-prediction",
@@ -230,7 +236,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/customer-churn-prediction.jpg",
         "alt": "customer-churn-prediction",
         "caption": "customer-churn-prediction project showcase"
       },
@@ -251,7 +257,8 @@
       },
       "tags": [
         "Python"
-      ]
+      ],
+      "image": "assets/img/projects/customer-churn-prediction.jpg"
     },
     {
       "title": "brain-mapping-eeg-classification",
@@ -269,7 +276,7 @@
       ],
       "icon": "fas fa-brain",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/brain-mapping-eeg-classification.jpg",
         "alt": "brain-mapping-eeg-classification",
         "caption": "brain-mapping-eeg-classification project showcase"
       },
@@ -295,7 +302,8 @@
         "HTML",
         "Shell",
         "Dockerfile"
-      ]
+      ],
+      "image": "assets/img/projects/brain-mapping-eeg-classification.jpg"
     },
     {
       "title": "retail-margin-cockpit",
@@ -310,7 +318,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/retail-margin-cockpit.jpg",
         "alt": "retail-margin-cockpit",
         "caption": "retail-margin-cockpit project showcase"
       },
@@ -333,7 +341,8 @@
         "Python",
         "PLpgSQL",
         "Dockerfile"
-      ]
+      ],
+      "image": "assets/img/projects/retail-margin-cockpit.jpg"
     },
     {
       "title": "field-ops-sql-cost-audit",
@@ -347,7 +356,7 @@
       ],
       "icon": "fas fa-project-diagram",
       "featuredImage": {
-        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "url": "assets/img/projects/field-ops-sql-cost-audit.jpg",
         "alt": "field-ops-sql-cost-audit",
         "caption": "field-ops-sql-cost-audit project showcase"
       },
@@ -369,7 +378,8 @@
       "tags": [
         "Python",
         "Dockerfile"
-      ]
+      ],
+      "image": "assets/img/projects/field-ops-sql-cost-audit.jpg"
     }
   ]
 }
