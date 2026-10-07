@@ -1,0 +1,20 @@
+{
+  "title": "Let's Create Something Exceptional",
+  "message": "I'm always interested in hearing about ambitious projects and creative collaborations.",
+  "methods": [
+    {
+      "label": "Email",
+      "value": "nehakongari60@gmail.com",
+      "link": "mailto:nehakongari60@gmail.com"
+    },
+    {
+      "label": "Phone",
+      "value": "+1 (216) 971 3136",
+      "link": "tel:12169713136"
+    },
+    {
+      "label": "Location",
+      "value": "OH, USA"
+    }
+  ]
+}

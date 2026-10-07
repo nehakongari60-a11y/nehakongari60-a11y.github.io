@@ -1,0 +1,16 @@
+{
+  "_instructions": "Add your education and certifications here.",
+  "sectionTitle": "Education & Certifications",
+  "certificationsTitle": "Certifications",
+  "education": [
+    {
+      "degree": "Masters of Science",
+      "school": "Cleveland State University",
+      "institution": "Cleveland State University",
+      "period": "Jan 2024 - Dec 2025",
+      "details": "GPA: 3.69/4.0",
+      "description": "GPA: 3.69/4.0"
+    }
+  ],
+  "certifications": []
+}

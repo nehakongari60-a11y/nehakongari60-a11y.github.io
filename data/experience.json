@@ -1,0 +1,45 @@
+{
+  "_instructions": "Add your work experience here. Copy the experience object for each job.",
+  "sectionTitle": "Professional Experience",
+  "experiences": [
+    {
+      "title": "Supply Chain Analyst",
+      "company": "Pepsico",
+      "period": "Aug 2025 - Current",
+      "location": "",
+      "description": "Enhanced forecast accuracy by 18% using SQL, Python, and R, reducing stockouts by 12%, preventing $2M in lost sales, and improving replenishment planning and production scheduling across North American distribution networks.\nDirected SAP MM and procurement process enhancement projects to standardize purchase requisition, vendor management, and replenishment workflows, improving purchase order cycle efficiency and reducing manual processing efforts for supply chain operations teams.\nSystematized SAP and Oracle SCM reporting into Power BI dashboards, reducing reporting time 30% while improving decisions.\nShortened order cycle times 10% by creating Tableau dashboards tracking fulfilment rates, delivery performance, and supplier lead times, improving operational visibility for procurement and logistics leadership.\nDecreased transportation costs 8% per quarter by optimizing shipment routing and warehouse utilization with logistics analytics.\nAmplified supplier on-time delivery from 86% to 94% through compliance monitoring and procurement performance analytics.\nBuilt Tableau sustainability dashboards, tracking carbon emissions and waste metrics to support executive reporting requirements.\nSupported ESG compliance initiatives by implementing waste reduction tracking and aligning supply chain metrics with sustainability goals, enhancing reporting accuracy and corporate compliance readiness.\nEnhanced inventory accuracy by integrating ERP and BI systems, lowering imbalances and improving stock availability significantly.",
+      "responsibilities": [
+        "Enhanced forecast accuracy by 18% using SQL, Python, and R, reducing stockouts by 12%, preventing $2M in lost sales, and improving replenishment planning and production scheduling across North American distribution networks",
+        "Directed SAP MM and procurement process enhancement projects to standardize purchase requisition, vendor management, and replenishment workflows, improving purchase order cycle efficiency and reducing manual processing efforts for supply chain operations teams",
+        "Systematized SAP and Oracle SCM reporting into Power BI dashboards, reducing reporting time 30% while improving decisions",
+        "Shortened order cycle times 10% by creating Tableau dashboards tracking fulfilment rates, delivery performance, and supplier lead times, improving operational visibility for procurement and logistics leadership",
+        "Decreased transportation costs 8% per quarter by optimizing shipment routing and warehouse utilization with logistics analytics",
+        "Amplified supplier on-time delivery from 86% to 94% through compliance monitoring and procurement performance analytics",
+        "Built Tableau sustainability dashboards, tracking carbon emissions and waste metrics to support executive reporting requirements",
+        "Supported ESG compliance initiatives by implementing waste reduction tracking and aligning supply chain metrics with sustainability goals, enhancing reporting accuracy and corporate compliance readiness",
+        "Enhanced inventory accuracy by integrating ERP and BI systems, lowering imbalances and improving stock availability significantly"
+      ]
+    },
+    {
+      "title": "Supply Chain Analyst",
+      "company": "Mphasis",
+      "period": "Jul 2020 - Dec 2023",
+      "location": "",
+      "description": "Lessened procurement issue resolution time 40% with SQL and Power BI dashboards monitoring vendor and logistics.\nEscalated material availability 10% by supporting NetSuite and Oracle SCM demand planning implementation and validation.\nCut annual carrying costs 5% with mechanized Excel VBA reports identifying excess and slow-moving inventory promptly.\nBoosted vendor collaboration by resolving invoice disputes and ensuring accurate compliance with contracts and payments.\nDesigned contingency stock strategies for critical items, mitigating disruption risk and improving supply chain resilience.\nDelivered consolidated procurement and logistics dashboards, increasing transparency and reducing reporting turnaround by 25%.\nLowered invoice mismatches 15% by reconciling inventory data and validating supplier records using SAP system.\nRefined procurement efficiency by creating computerized Excel macros, eliminating manual errors in purchase order workflows.\nAchieved 95% on-time delivery by coordinating inbound shipments with logistics providers and production scheduling teams.\nMinimized stock-outs by assisting RFID warehouse tracking pilot, enhancing real-time inventory visibility and accuracy.\nHeightened reporting accuracy by standardizing procurement and logistics templates for weekly management reports consistently.\nSupported procurement, logistics, and finance with daily reporting, enabling informed decision-making across multiple departments.",
+      "responsibilities": [
+        "Lessened procurement issue resolution time 40% with SQL and Power BI dashboards monitoring vendor and logistics",
+        "Escalated material availability 10% by supporting NetSuite and Oracle SCM demand planning implementation and validation",
+        "Cut annual carrying costs 5% with mechanized Excel VBA reports identifying excess and slow-moving inventory promptly",
+        "Boosted vendor collaboration by resolving invoice disputes and ensuring accurate compliance with contracts and payments",
+        "Designed contingency stock strategies for critical items, mitigating disruption risk and improving supply chain resilience",
+        "Delivered consolidated procurement and logistics dashboards, increasing transparency and reducing reporting turnaround by 25%",
+        "Lowered invoice mismatches 15% by reconciling inventory data and validating supplier records using SAP system",
+        "Refined procurement efficiency by creating computerized Excel macros, eliminating manual errors in purchase order workflows",
+        "Achieved 95% on-time delivery by coordinating inbound shipments with logistics providers and production scheduling teams",
+        "Minimized stock-outs by assisting RFID warehouse tracking pilot, enhancing real-time inventory visibility and accuracy",
+        "Heightened reporting accuracy by standardizing procurement and logistics templates for weekly management reports consistently",
+        "Supported procurement, logistics, and finance with daily reporting, enabling informed decision-making across multiple departments"
+      ]
+    }
+  ]
+}

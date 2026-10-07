@@ -1,0 +1,65 @@
+{
+  "_instructions": "Sidebar configuration for editorial split-screen navigation.",
+  "brand": {
+    "name": "Neha Kongari",
+    "title": "Supply Chain Analyst",
+    "logo": ""
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "#hero",
+      "icon": "fas fa-home"
+    },
+    {
+      "label": "About",
+      "href": "#about",
+      "icon": "fas fa-user"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience",
+      "icon": "fas fa-briefcase"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills",
+      "icon": "fas fa-code"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects",
+      "icon": "fas fa-folder-open"
+    },
+    {
+      "label": "Education",
+      "href": "#education",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:nehakongari60@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ],
+  "footer": {
+    "text": "© 2026 Neha Kongari. All rights reserved.",
+    "links": [
+      {
+        "label": "Privacy",
+        "href": "#"
+      },
+      {
+        "label": "Terms",
+        "href": "#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_instructions": "Hero section content - magazine-style editorial introduction.",
+  "kicker": "Portfolio",
+  "headline": "Neha Kongari",
+  "subheadline": "Supply Chain Analyst",
+  "deck": "Supply Chain Analyst with 1+ years of experience specializing in Python, R, SQL.",
+  "avatarUrl": "/avatar.png",
+  "byline": {
+    "name": "Neha Kongari",
+    "title": "Supply Chain Analyst",
+    "date": "2026-10-07"
+  },
+  "featuredImage": {
+    "url": "https://images.unsplash.com/photo-1487014679447-9f8336841d58?w=1200&h=800&q=80&fit=crop",
+    "alt": "Neha Kongari - Supply Chain Analyst",
+    "caption": ""
+  },
+  "pullQuote": "Supply Chain Analyst with 1+ years of experience specializing in Python, R, SQL.",
+  "cta": {
+    "buttons": [
+      {
+        "text": "Read More",
+        "href": "#about",
+        "type": "primary",
+        "external": false
+      },
+      {
+        "text": "View Portfolio",
+        "href": "#projects",
+        "type": "secondary",
+        "external": false
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:nehakongari60@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

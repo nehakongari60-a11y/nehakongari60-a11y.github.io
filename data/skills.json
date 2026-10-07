@@ -1,0 +1,319 @@
+{
+  "_instructions": "Organize your skills with text-based levels.",
+  "sectionTitle": "Skills & Expertise",
+  "subtitle": "Technical proficiencies",
+  "categories": [
+    {
+      "category": "Programming Languages",
+      "icon": "fas fa-code",
+      "skills": [
+        {
+          "name": "Python",
+          "level": "Intermediate"
+        },
+        {
+          "name": "R",
+          "level": "Intermediate"
+        },
+        {
+          "name": "SQL",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "icon": "fas fa-toolbox",
+      "skills": [
+        {
+          "name": "Pandas",
+          "level": "Beginner"
+        },
+        {
+          "name": "NumPy",
+          "level": "Beginner"
+        }
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "icon": "fas fa-wrench",
+      "skills": [
+        {
+          "name": "Power BI",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Tableau",
+          "level": "Intermediate"
+        },
+        {
+          "name": "SAP S/4HANA (MM/SD)",
+          "level": "Beginner"
+        },
+        {
+          "name": "Oracle SCM Cloud",
+          "level": "Beginner"
+        },
+        {
+          "name": "NetSuite",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Microsoft Dynamics 365",
+          "level": "Beginner"
+        },
+        {
+          "name": "Kinaxis",
+          "level": "Beginner"
+        },
+        {
+          "name": "Blue Yonder (JDA)",
+          "level": "Beginner"
+        },
+        {
+          "name": "TMS",
+          "level": "Beginner"
+        },
+        {
+          "name": "WMS",
+          "level": "Beginner"
+        },
+        {
+          "name": "RFID/IoT Tracking",
+          "level": "Beginner"
+        },
+        {
+          "name": "Alteryx",
+          "level": "Beginner"
+        },
+        {
+          "name": "Snowflake",
+          "level": "Beginner"
+        },
+        {
+          "name": "Google Big Query",
+          "level": "Beginner"
+        },
+        {
+          "name": "Amazon Redshift",
+          "level": "Beginner"
+        },
+        {
+          "name": "Microsoft Office Suite",
+          "level": "Beginner"
+        },
+        {
+          "name": "Excel",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Word",
+          "level": "Beginner"
+        },
+        {
+          "name": "PowerPoint",
+          "level": "Beginner"
+        },
+        {
+          "name": "Outlook",
+          "level": "Beginner"
+        },
+        {
+          "name": "Power Query",
+          "level": "Beginner"
+        },
+        {
+          "name": "PivotTables",
+          "level": "Beginner"
+        },
+        {
+          "name": "VLOOKUP/XLOOKUP",
+          "level": "Beginner"
+        },
+        {
+          "name": "VBA/Macros",
+          "level": "Beginner"
+        }
+      ]
+    },
+    {
+      "category": "Technical Skills",
+      "icon": "fas fa-laptop-code",
+      "skills": [
+        {
+          "name": "Supply Chain Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Demand Forecasting",
+          "level": "Beginner"
+        },
+        {
+          "name": "Inventory Planning & Control",
+          "level": "Beginner"
+        },
+        {
+          "name": "Procurement & Supplier Analysis",
+          "level": "Beginner"
+        },
+        {
+          "name": "Order Fulfillment",
+          "level": "Beginner"
+        },
+        {
+          "name": "Logistics & Distribution Support",
+          "level": "Beginner"
+        },
+        {
+          "name": "S&OP Participation",
+          "level": "Beginner"
+        },
+        {
+          "name": "Supply Chain Risk Awareness",
+          "level": "Beginner"
+        },
+        {
+          "name": "Sustainability & ESG Fundamentals",
+          "level": "Beginner"
+        },
+        {
+          "name": "Root Cause & Variance Analysis",
+          "level": "Beginner"
+        },
+        {
+          "name": "Cost-Benefit Analysis",
+          "level": "Beginner"
+        },
+        {
+          "name": "AI-Assisted Forecasting",
+          "level": "Beginner"
+        },
+        {
+          "name": "Predictive Analytics",
+          "level": "Beginner"
+        },
+        {
+          "name": "Demand Sensing",
+          "level": "Beginner"
+        },
+        {
+          "name": "Supply Risk Analysis",
+          "level": "Beginner"
+        },
+        {
+          "name": "Intelligent Supply Chain Analytics",
+          "level": "Beginner"
+        },
+        {
+          "name": "Digital Transformation",
+          "level": "Beginner"
+        },
+        {
+          "name": "Data-Driven Decision Making",
+          "level": "Beginner"
+        },
+        {
+          "name": "Inventory Turnover",
+          "level": "Beginner"
+        },
+        {
+          "name": "OTIF",
+          "level": "Beginner"
+        },
+        {
+          "name": "Fill Rate",
+          "level": "Beginner"
+        },
+        {
+          "name": "Cycle & Lead Time Reduction",
+          "level": "Beginner"
+        },
+        {
+          "name": "Forecast Accuracy",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Lean & Agile Concepts",
+          "level": "Beginner"
+        },
+        {
+          "name": "Value Stream Mapping (VSM)",
+          "level": "Beginner"
+        },
+        {
+          "name": "5S",
+          "level": "Beginner"
+        },
+        {
+          "name": "Process Mapping",
+          "level": "Beginner"
+        },
+        {
+          "name": "Inventory Optimization Initiatives",
+          "level": "Beginner"
+        },
+        {
+          "name": "Project Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Program Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Agile",
+          "level": "Beginner"
+        },
+        {
+          "name": "Waterfall",
+          "level": "Beginner"
+        },
+        {
+          "name": "Stakeholder Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Risk Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Change Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Cross-Functional Collaboration",
+          "level": "Beginner"
+        },
+        {
+          "name": "Resource Planning",
+          "level": "Beginner"
+        },
+        {
+          "name": "Budget Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Problem Solving",
+          "level": "Beginner"
+        },
+        {
+          "name": "Communication & Stakeholder Reporting",
+          "level": "Beginner"
+        },
+        {
+          "name": "Project Coordination",
+          "level": "Beginner"
+        },
+        {
+          "name": "Time Management",
+          "level": "Beginner"
+        },
+        {
+          "name": "Attention to Detail",
+          "level": "Beginner"
+        }
+      ]
+    }
+  ]
+}

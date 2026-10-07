@@ -1,0 +1,18 @@
+{
+  "_instructions": "Site-wide configuration and meta tags. Update these values for SEO and branding.",
+  "meta": {
+    "title": "Neha Kongari | Supply Chain Analyst",
+    "description": "Neha Kongari - Supply Chain Analyst | Portfolio",
+    "author": "Neha Kongari",
+    "keywords": "Supply Chain Analyst, Portfolio, Neha Kongari"
+  },
+  "branding": {
+    "name": "Neha Kongari",
+    "tagline": "Supply Chain Analyst"
+  },
+  "settings": {
+    "year": 2026,
+    "enableAnimations": true,
+    "navbarScrollEffect": true
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "_instructions": "Add your projects.",
+  "sectionTitle": "Featured Work",
+  "subtitle": "In-depth project case studies",
+  "projects": [
+    {
+      "title": "thesis-option-pricing-with-deep-learning",
+      "subtitle": "Backend Development",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "thesis-option-pricing-with-deep-learning",
+        "caption": "thesis-option-pricing-with-deep-learning project showcase"
+      },
+      "featured": true,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/thesis-option-pricing-with-deep-learning",
+      "demo": "https://github.com/nehakongari60-a11y/thesis-option-pricing-with-deep-learning",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/thesis-option-pricing-with-deep-learning",
+        "demo": "https://github.com/nehakongari60-a11y/thesis-option-pricing-with-deep-learning",
+        "live": "https://github.com/nehakongari60-a11y/thesis-option-pricing-with-deep-learning",
+        "article": ""
+      },
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "title": "enhanced-anomaly-detection-system",
+      "subtitle": "Backend Development",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "enhanced-anomaly-detection-system",
+        "caption": "enhanced-anomaly-detection-system project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/enhanced-anomaly-detection-system",
+      "demo": "https://github.com/nehakongari60-a11y/enhanced-anomaly-detection-system",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/enhanced-anomaly-detection-system",
+        "demo": "https://github.com/nehakongari60-a11y/enhanced-anomaly-detection-system",
+        "live": "https://github.com/nehakongari60-a11y/enhanced-anomaly-detection-system",
+        "article": ""
+      },
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "title": "online-grocery-retail---prediction-and-recommendation",
+      "subtitle": "Backend Development",
+      "description": "Comprehensive project exploring software design patterns",
+      "longDescription": "Comprehensive project exploring software design patterns",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "online-grocery-retail---prediction-and-recommendation",
+        "caption": "online-grocery-retail---prediction-and-recommendation project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/online-grocery-retail---prediction-and-recommendation",
+      "demo": "https://github.com/nehakongari60-a11y/online-grocery-retail---prediction-and-recommendation",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/online-grocery-retail---prediction-and-recommendation",
+        "demo": "https://github.com/nehakongari60-a11y/online-grocery-retail---prediction-and-recommendation",
+        "live": "https://github.com/nehakongari60-a11y/online-grocery-retail---prediction-and-recommendation",
+        "article": ""
+      },
+      "tags": [
+        "Jupyter Notebook",
+        "Python"
+      ]
+    },
+    {
+      "title": "ds_salary_proj",
+      "subtitle": "Backend Development",
+      "description": "Full-featured application built as a learning exercise",
+      "longDescription": "Full-featured application built as a learning exercise",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "ds_salary_proj",
+        "caption": "ds_salary_proj project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/ds_salary_proj",
+      "demo": "https://github.com/nehakongari60-a11y/ds_salary_proj",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/ds_salary_proj",
+        "demo": "https://github.com/nehakongari60-a11y/ds_salary_proj",
+        "live": "https://github.com/nehakongari60-a11y/ds_salary_proj",
+        "article": ""
+      },
+      "tags": [
+        "Jupyter Notebook",
+        "Python"
+      ]
+    },
+    {
+      "title": "anomaly-detection",
+      "subtitle": "Backend Development",
+      "description": "Personal project for exploring modern development practices",
+      "longDescription": "Personal project for exploring modern development practices",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "anomaly-detection",
+        "caption": "anomaly-detection project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/anomaly-detection",
+      "demo": "https://github.com/nehakongari60-a11y/anomaly-detection",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/anomaly-detection",
+        "demo": "https://github.com/nehakongari60-a11y/anomaly-detection",
+        "live": "https://github.com/nehakongari60-a11y/anomaly-detection",
+        "article": ""
+      },
+      "tags": [
+        "Jupyter Notebook",
+        "Python"
+      ]
+    },
+    {
+      "title": "online-payments-fraud-detection-with-machine-learning",
+      "subtitle": "Backend Development",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Jupyter Notebook",
+        "HTML",
+        "Python",
+        "CSS"
+      ],
+      "icon": "fas fa-brain",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "online-payments-fraud-detection-with-machine-learning",
+        "caption": "online-payments-fraud-detection-with-machine-learning project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/online-payments-fraud-detection-with-machine-learning",
+      "demo": "https://github.com/nehakongari60-a11y/online-payments-fraud-detection-with-machine-learning",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/online-payments-fraud-detection-with-machine-learning",
+        "demo": "https://github.com/nehakongari60-a11y/online-payments-fraud-detection-with-machine-learning",
+        "live": "https://github.com/nehakongari60-a11y/online-payments-fraud-detection-with-machine-learning",
+        "article": ""
+      },
+      "tags": [
+        "Jupyter Notebook",
+        "HTML",
+        "Python",
+        "CSS"
+      ]
+    },
+    {
+      "title": "customer-churn-prediction",
+      "subtitle": "Backend Development",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "customer-churn-prediction",
+        "caption": "customer-churn-prediction project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/customer-churn-prediction",
+      "demo": "https://github.com/nehakongari60-a11y/customer-churn-prediction",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/customer-churn-prediction",
+        "demo": "https://github.com/nehakongari60-a11y/customer-churn-prediction",
+        "live": "https://github.com/nehakongari60-a11y/customer-churn-prediction",
+        "article": ""
+      },
+      "tags": [
+        "Python"
+      ]
+    },
+    {
+      "title": "brain-mapping-eeg-classification",
+      "subtitle": "Backend Development",
+      "description": "Interactive application built for continuous learning",
+      "longDescription": "Interactive application built for continuous learning",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Shell",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "brain-mapping-eeg-classification",
+        "caption": "brain-mapping-eeg-classification project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/brain-mapping-eeg-classification",
+      "demo": "https://github.com/nehakongari60-a11y/brain-mapping-eeg-classification",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/brain-mapping-eeg-classification",
+        "demo": "https://github.com/nehakongari60-a11y/brain-mapping-eeg-classification",
+        "live": "https://github.com/nehakongari60-a11y/brain-mapping-eeg-classification",
+        "article": ""
+      },
+      "tags": [
+        "Python",
+        "JavaScript",
+        "CSS",
+        "HTML",
+        "Shell",
+        "Dockerfile"
+      ]
+    },
+    {
+      "title": "retail-margin-cockpit",
+      "subtitle": "Backend Development",
+      "description": "Personal project for exploring modern development practices",
+      "longDescription": "Personal project for exploring modern development practices",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "PLpgSQL",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "retail-margin-cockpit",
+        "caption": "retail-margin-cockpit project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/retail-margin-cockpit",
+      "demo": "https://github.com/nehakongari60-a11y/retail-margin-cockpit",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/retail-margin-cockpit",
+        "demo": "https://github.com/nehakongari60-a11y/retail-margin-cockpit",
+        "live": "https://github.com/nehakongari60-a11y/retail-margin-cockpit",
+        "article": ""
+      },
+      "tags": [
+        "Python",
+        "PLpgSQL",
+        "Dockerfile"
+      ]
+    },
+    {
+      "title": "field-ops-sql-cost-audit",
+      "subtitle": "Backend Development",
+      "description": "Learning project built with modern web technologies",
+      "longDescription": "Learning project built with modern web technologies",
+      "category": "Backend Development",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-project-diagram",
+      "featuredImage": {
+        "url": "https://images.unsplash.com/photo-1547658719-da2b51169166?w=1200&h=800&q=80&fit=crop",
+        "alt": "field-ops-sql-cost-audit",
+        "caption": "field-ops-sql-cost-audit project showcase"
+      },
+      "featured": false,
+      "publishDate": "2026-10-07",
+      "readTime": "5 min read",
+      "author": {
+        "name": "Neha Kongari",
+        "title": "Supply Chain Analyst"
+      },
+      "github": "https://github.com/nehakongari60-a11y/field-ops-sql-cost-audit",
+      "demo": "https://github.com/nehakongari60-a11y/field-ops-sql-cost-audit",
+      "links": {
+        "github": "https://github.com/nehakongari60-a11y/field-ops-sql-cost-audit",
+        "demo": "https://github.com/nehakongari60-a11y/field-ops-sql-cost-audit",
+        "live": "https://github.com/nehakongari60-a11y/field-ops-sql-cost-audit",
+        "article": ""
+      },
+      "tags": [
+        "Python",
+        "Dockerfile"
+      ]
+    }
+  ]
+}
